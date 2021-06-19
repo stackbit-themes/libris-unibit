@@ -555,4 +555,4 @@ stackbit_banner:
   show_banner: true
   name: Libris
   create_url: 'https://app.stackbit.com/create?theme=libris'
-  github_url: 'https://github.com/stackbit-themes/libris-unibit'
+  github_url: 'https://github.com/stackbit/stackbit-theme-libris'
